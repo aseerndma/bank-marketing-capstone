@@ -1,0 +1,5 @@
+# Capstone settings
+data_path: "data/bank-full.csv"
+test_size: 0.3
+random_state: 42
+model: "logistic_regression"  
